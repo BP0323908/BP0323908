@@ -12,6 +12,11 @@
 ### this figure shows the full summary results of the correlation matrix
 
 
+### References
+[reference 1](https://www.legislation.gov.uk/ukpga/2018/12/contents)
+[reference 2](https://ico.org.uk/action-weve-taken/enforcement/)
+[reference 3](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/)
+
 
 <!--
 **BP0323908/BP0323908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

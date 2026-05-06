@@ -3,6 +3,9 @@
 ## My Data Science Project
 ### Predicting Loan Repayments
 
+Raw Data
+[data 1](https://www.kaggle.com/datasets/itssuru/loan-data?resource=download) 
+
 ![Fig1 matrix](images/Fig1 matrix.png)
 
 ### this figure shows the executive summary results of the correlation matrix

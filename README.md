@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My Data Science Project
-# Predicting Loan Repayments
+### Predicting Loan Repayments
 
 
 
